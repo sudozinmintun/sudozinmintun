@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Accounting System**
 
-- 🌱 I’m currently learning **React, React Native, Next.js, Golang**
+- 🌱 I’m currently learning **Golang**
 
 - 👨‍💻 All of my projects are available at [zinmin.tech](zinmin.tech)
 
