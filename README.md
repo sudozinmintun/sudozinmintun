@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [p2jcloud.online](https://p2jcloud.online)
 
-- 💬 Ask me about **PHP, Laravel, Codeigniter, Python, Django**
+- 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, Python, Django**
 
 - 📫 How to reach me **zinmintun.edu@gmail.com**
 
