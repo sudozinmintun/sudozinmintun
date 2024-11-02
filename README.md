@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [zinmin.tech](zinmin.tech)
+- 👨‍💻 All of my projects are available at [p2jcloud.online](p2jcloud.online)
 
 - 💬 Ask me about **PHP, Laravel, Codeigniter, Python, Django**
 
