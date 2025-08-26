@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [zionmaximilian](https://zionmaximilian.com/)
+- 👨‍💻 All of my projects are available at [zionmaximilian.com](https://zionmaximilian.com/)
 
 - 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, Python, Django**
 
