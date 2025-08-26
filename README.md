@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Golang**
 
-- 👨‍💻 All of my projects are available at [p2jcloud.online](https://p2jcloud.online)
+- 👨‍💻 All of my projects are available at [zionmaximilian](https://zionmaximilian.com/)
 
 - 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, Python, Django**
 
-- 📫 How to reach me **zinmintun.edu@gmail.com**
+- 📫 How to reach me **info@zionmaximilian.com**
 
 - ⚡ Fun fact **I am funny**
 
