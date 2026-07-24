@@ -3,17 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudozinmintun&label=Profile%20views&color=0e75b6&style=flat" alt="sudozinmintun" /> </p>
 
-- 🔭 I’m currently working on **Accounting System**
-
-- 🌱 I’m currently learning **Golang**
-
-- 👨‍💻 All of my projects are available at [zionmaximilian.com](https://zionmaximilian.com/)
-
-- 💬 Ask me about **PHP, Laravel, Codeigniter, JavaScript, Python, Django**
-
-- 📫 How to reach me **info@zionmaximilian.com**
-
-- ⚡ Fun fact **I am funny**
+🔭 Building Business Applications, SaaS Products, and Web Applications
+⚙️ Tech Stack: Laravel • Django • HTMX • PHP • Python • MySQL
+🌱 Currently learning Golang
+🌐 Portfolio: https://zionmaximilian.com
+📫 Email: info@zionmaximilian.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
